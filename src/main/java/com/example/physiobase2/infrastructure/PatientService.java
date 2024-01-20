@@ -31,5 +31,4 @@ public class PatientService {
         patientRepository.save(new PatientEntity("Jan Kowalski", "Male"));
         patientRepository.save(new PatientEntity("Tomasz Gałecki", "Male"));
     }
-
 }
